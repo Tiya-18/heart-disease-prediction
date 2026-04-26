@@ -1,4 +1,4 @@
-**❤️ Heart Disease Prediction using Machine Learning & Deep Learning
+**❤️ Heart Disease Prediction using Machine Learning & Deep Learning**
 
 Heart disease is one of the leading causes of death globally. Early detection plays a crucial role in reducing risks and improving patient outcomes.
 
